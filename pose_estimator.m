@@ -23,6 +23,7 @@ function varargout = pose_estimator(varargin)
 % Edit the above text to modify the response to help pose_estimator
 
 % Last Modified by GUIDE v2.5 18-Aug-2015 21:45:42
+% Copyrights(C) Madhur Behl 2015
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;

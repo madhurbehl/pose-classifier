@@ -1,6 +1,7 @@
 clear all;
 %close all;
 clc;
+% Copyrights(C) Madhur Behl 2015
 
 % save name of all subjects
 subjects = {'achin', 'david', 'dhurva', 'hao', 'kuk', 'marco',...

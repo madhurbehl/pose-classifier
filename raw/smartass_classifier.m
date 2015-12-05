@@ -1,4 +1,6 @@
 % smartass_classifier
+% visualization and classification of poses.
+% Copyrights(C) Madhur Behl 2015
 
 clear all;
 close all;

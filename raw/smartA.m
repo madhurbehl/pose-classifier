@@ -17,6 +17,7 @@ function varargout = smartA(varargin)
 %
 %      *See GUI Options on GUIDE's Tools menu.  Choose "GUI allows only one
 %      instance to run (singleton)".
+% Copyrights(C) Madhur Behl 2015
 %
 % See also: GUIDE, GUIDATA, GUIHANDLES
 
